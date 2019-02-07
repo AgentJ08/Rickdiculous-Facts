@@ -1,2 +1,2 @@
 # Rickdiculous-Facts
-An Alexa skill for Rickdiculous Facts! 
+An Alexa fact skill for Rickdiculous Facts! 
