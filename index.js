@@ -17,7 +17,7 @@ const Alexa = require('alexa-sdk');
 
 //Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.
 //Make sure to enclose your value in quotes, like this: const APP_ID = 'amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1';
-const APP_ID = 'amzn1.ask.skill.7792577c-650d-497b-98d4-16a1cece12e6';
+const APP_ID = '<Skill ID>';
 
 const SKILL_NAME = 'Rickdiculous Facts';
 const GET_FACT_MESSAGE = "Here's your rickdiculous fact: ";
